@@ -7,3 +7,21 @@ body{
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
+.hungry img{
+    
+    width:8.5%;
+    height:30%;
+    margin-left:-15px;
+   border-radius: 49px;
+   box-shadow: 2px 6px 40px black;
+}
+.hungry h1{
+    color:rgb(164, 189, 24);
+    font-size:500%;
+    margin-top: -7%;
+    padding-left: 13%;
+    
+}
+.hung{
+    margin-right:-2%
+}

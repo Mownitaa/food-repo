@@ -57,52 +57,58 @@ nav ul li a:hover{
     width: 0%;
      height: 0px;
 } 
-.letter-h{
-    color: rgb(60, 189, 146);
 
+span:nth-child(1){
+    color:rgb(60, 189, 146);
 }
-.letter-u{
+span:nth-child(2){
     color: rgb(210, 245, 86);
 }
-.letter-n{ 
+span:nth-child(3){
     color: rgb(187, 8, 8);
 }
-.letter-g{
+span:nth-child(4){
     color: #f0ca0b;
 }
-.letter-r{
+span:nth-child(5){
     color: rgb(210, 158, 238);
-   
 }
-.letter-y{
-    color: rgb(9, 66, 66);
+span:nth-child(6){
+    color:rgb(9, 66, 66);
 }
-.question-mark{
-    color: rgb(156, 223, 90);
+span:nth-child(7){
+    color:rgb(156, 223, 90);
 }
-
-
-
 
  .menu{
     display: flex;
-    color: white;
+    color: #f5c430;
     background-color: mediumaquamarine;
-    margin:-75% 0% 0% 6%;
+    margin:-77% 0% 0% 3%;
     font-size: 110%;
     padding: 5px 30px 50px 5px;
      /* margin: 0px 0px 0px 30px; */
 
 }
+.menu li{
+    background-color: rgba(0, 0, 0, 0.432);
+    border-radius: 5px;
+    padding: 2px 15px 2px 18px;
+    list-style: none;
+    box-shadow: 10px 4px 5px rgb(1, 2, 1);
+}
 
 h2{
     color: rgb(78, 7, 7);
+    background-color: rgb(156, 223, 90);
+    border-radius: 5px;
+    padding: 5px;
    
 } 
 #drink{
     
     margin-left: -49%;
-    padding-top: 0.5px;
+    padding-top: -3px;
     margin-right: 47%;
 }
 
